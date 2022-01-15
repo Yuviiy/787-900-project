@@ -1,7 +1,7 @@
 # 787-900-project
 We will do it!
 
-Hallo all)
+Hallo all) this is Fly design studio!
 
 This is a new projekt of a Boeing 789!
 
@@ -9,6 +9,7 @@ We rewards:
 1) Detalised cocpit
 2) Normal FMC
 3) Normal HUD
+4) Normal Fuel and Flight model
 
 You can support us in:
 (the near future)
