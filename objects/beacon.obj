@@ -1,0 +1,22 @@
+I
+800
+OBJ
+
+TEXTURE		beacon.png
+TEXTURE_LIT	beacon_LIT.png
+TEXTURE_NORMAL	beacon_NML.png
+POINT_COUNTS	0 0 0 0
+
+#		    X         Y        Z         R      G      B      A        Size     S1     T1     S2     T2         Dataref
+LIGHT_CUSTOM	    0.0000    2.9248   12.1216	 1.000  1.000  1.000  1.000    2.000	0.0    0.0    1.0    1.0	sim/flightmodel2/lights/generic_lights_brightness_ratio[3]
+
+#		    X         Y        Z         R      G      B      A        Size     DX     DY     DZ     W         Dataref
+LIGHT_SPILL_CUSTOM  0.0000    2.9248   12.1216	 1.000  0.000  0.000  1.000    5.000	0.0    0.0    0.0    1.0	sim/flightmodel2/lights/generic_lights_brightness_ratio[3]
+
+#		    X         Y        Z         R      G      B      A        Size     S1     T1     S2     T2         Dataref
+LIGHT_CUSTOM	   -0.0000   -3.0962   24.2892	 1.000  1.000  1.000  1.000    2.000	0.0    0.0    1.0    1.0	sim/flightmodel2/lights/generic_lights_brightness_ratio[3]
+
+#		    X         Y        Z         R      G      B      A        Size     DX     DY     DZ     W         Dataref
+LIGHT_SPILL_CUSTOM -0.0000   -3.0962   24.2892	 1.000  0.000  0.000  1.000    5.000	0.0    0.0    0.0    1.0	sim/flightmodel2/lights/generic_lights_brightness_ratio[3]
+
+# Built with Blender 2.49. Exported with XPlane2Blender 3.10.

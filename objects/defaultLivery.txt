@@ -1,0 +1,7 @@
+tailNumber G-TUIC string
+airlineID TOM string
+icaoID GTUIC string
+selcalCode AL-CR string
+engineType 0 number
+useMetersL 0 number
+useMetersR 0 number
