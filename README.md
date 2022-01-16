@@ -15,11 +15,11 @@ You can support us in:
 (the near future)
 
 WE command:
-Main programist - Yuvi#8790 (ru eng)
-Main designer - PILOT#0609 (ru eng)
-1) designer - PLYmut BãrRåçùDÂ#0598 (ru (eng text only))
-2) designer - M𝔸𝕜ş𝔩𝔪#4376 (ru)
-Livery maker - faithful ghost#4661 (ru)
+1) Main programist - Yuvi#8790 (ru eng)
+2) Main designer - PILOT#0609 (ru eng)
+3) designer - PLYmut BãrRåçùDÂ#0598 (ru (eng text only))
+4) designer - M𝔸𝕜ş𝔩𝔪#4376 (ru)
+5) Livery maker - faithful ghost#4661 (ru)
 
 We discord server:
 https://discord.gg/KpRDRQnzAr
